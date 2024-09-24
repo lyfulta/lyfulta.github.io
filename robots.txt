@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lyfulta.github.io/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/app/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/assets/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/css/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/data/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/includes/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/item/sitemap.html.gz
+Sitemap: https://lyfulta.github.io/src/sitemap.html.gz
